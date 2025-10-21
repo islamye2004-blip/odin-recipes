@@ -1,1 +1,1 @@
-# odin-recipes
+Hello. This is my first project in the odin course. I already know HTML, CSS and JS but I want to refresh my knowledge because it has been a year since I used them in a real project. This project is to practice HTML through making a recipe website. 
