@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    color: rgb(206, 157, 157);
+    
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 60px;
+    font-weight:900;
+    border-bottom: 3px dotted brown;
+    padding-bottom: 30px;
+    color: rgb(187, 50, 50);
+
+    
+
+}
+img{
+    display: block;
+    border-radius: 50%;
+    width:250px;
+    margin: 0 auto;
+    border: 5px dashed rgb(235, 123, 142);
+    
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    color: rgb(255, 108, 108);
+    font-family: cursive;
+}
+p , ul , ol{
+    border-bottom: 5px dashed white;
+    font-size: 30px;
+    padding-bottom: 20px;
+  width: 1000px;
+  height: auto;
+    margin: 0 auto;
+}
